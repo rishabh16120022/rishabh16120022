@@ -1,9 +1,9 @@
 {
   "active_backend_url": "https://cineversebyrt-1-605j.onrender.com",
-  "version_code": 62,
-  "version_name": "3.18.0",
+  "version_code": 63,
+  "version_name": "3.19.0",
   "download_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
   "apk_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
-  "changelog": "CineVerse v3.18.0: High-fidelity Cine Music audio effects (tangible Bass Boost +12dB, authentic Lo-Fi tape slow-drift + HF roll-off, real 360 circular 8D spatial audio), linear non-looping track advancement queue, strict trending Hindi hero carousel (3-second auto-slide), 100K+ verified YouTube channel filter with jukebox/compilation purge, video player screen-off auto-pause, PiP swipe-away pause, 2024-2026 blockbuster movie hero banners with 30-min auto check, and real-time 10-minute scraper domain health check with admin live update modal.",
+  "changelog": "CineVerse v3.19.0: Real-time DSP audio engine with tangible Bass Boost (+12dB IIR filter + limiter), Lo-Fi tape slow-drift + vintage cassette roll-off, real 360° circular 8D spatial audio; fixed next-song progression to eliminate 1-2 track loops; authentic high-res song & album cover artwork with elegant CineVerse watermark branding across all screens.",
   "is_forced": false
 }
