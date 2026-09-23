@@ -1,9 +1,9 @@
 {
   "active_backend_url": "https://cineversebyrt-1-605j.onrender.com",
-  "version_code": 57,
-  "version_name": "3.13.1",
+  "version_code": 59,
+  "version_name": "3.15.0",
   "download_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
   "apk_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
-  "changelog": "Dynamic Auto-Resolver enabled: app permanently stays connected across future cloud migrations.",
+  "changelog": "CINE MUSIC Real Engine: YouTube search from residential IP, live views count, authentic thumbnails, instant top match + 10-15 related songs, and zero-error JioSaavn 320kbps CD-quality fallback.",
   "is_forced": false
 }
