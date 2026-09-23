@@ -2,7 +2,7 @@
   "active_backend_url": "https://cineversebyrt-1-605j.onrender.com",
   "version_code": 64,
   "version_name": "3.20.0",
-  "download_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
+  "download_url": "https://raw.githubusercontent.com/rishabh16120022/rishabh16120022/main/CineVerse.apk",
   "apk_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
   "changelog": "CineVerse v3.20.0: DJ Club Bass+Treble Mode with zero distortion / rattling (pure balanced punch + crystal treble sparkle + tanh analog limiting); strict linear sequential track progression without repeating songs; 30+ track dynamic auto-backfill pool.",
   "is_forced": false
