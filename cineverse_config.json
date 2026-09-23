@@ -1,9 +1,9 @@
 {
   "active_backend_url": "https://cineversebyrt-1-605j.onrender.com",
-  "version_code": 59,
-  "version_name": "3.15.0",
+  "version_code": 60,
+  "version_name": "3.16.0",
   "download_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
   "apk_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
-  "changelog": "CINE MUSIC Real Engine: YouTube search from residential IP, live views count, authentic thumbnails, instant top match + 10-15 related songs, and zero-error JioSaavn 320kbps CD-quality fallback.",
+  "changelog": "Cine Music Studio Master: Dynamic 20-song movie soundtrack albums, View Album track sheet, auto-advance next song playback, system notification bar media controls with authentic artwork, 4 real-time DSP audio effects (Normal, Bass Boost +700mB, Lo-Fi, 8D Spatial Audio 360) with zero interruption, dancing equalizer soundwaves, and Dolby Atmos master quality.",
   "is_forced": false
 }
