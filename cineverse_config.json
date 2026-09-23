@@ -1,0 +1,9 @@
+{
+  "active_backend_url": "https://cineversebyrt-1-605j.onrender.com",
+  "version_code": 57,
+  "version_name": "3.13.1",
+  "download_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
+  "apk_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
+  "changelog": "Dynamic Auto-Resolver enabled: app permanently stays connected across future cloud migrations.",
+  "is_forced": false
+}
