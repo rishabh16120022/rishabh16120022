@@ -1,9 +1,9 @@
 {
   "active_backend_url": "https://cineversebyrt-1-605j.onrender.com",
-  "version_code": 64,
-  "version_name": "3.20.0",
+  "version_code": 65,
+  "version_name": "3.21.0",
   "download_url": "https://raw.githubusercontent.com/rishabh16120022/rishabh16120022/main/CineVerse.apk",
   "apk_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
-  "changelog": "CineVerse v3.20.0: DJ Club Bass+Treble Mode with zero distortion / rattling (pure balanced punch + crystal treble sparkle + tanh analog limiting); strict linear sequential track progression without repeating songs; 30+ track dynamic auto-backfill pool.",
+  "changelog": "CineVerse v3.21.0: Real playable 320kbps CineMusic catalog; Customizable owner welcome announcement; Movie & Web Series downloads with live progress tracker; Live Sports FanCode watermark masking; Real-time user blocking with administrator reason.",
   "is_forced": false
 }
