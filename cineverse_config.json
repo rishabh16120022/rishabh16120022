@@ -1,0 +1,9 @@
+{
+  "active_backend_url": "https://cineversebyrt-1-605j.onrender.com",
+  "version_code": 98,
+  "version_name": "3.39.0",
+  "download_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
+  "apk_url": "https://cineversebyrt-1-605j.onrender.com/download/apk",
+  "changelog": "CineVerse v3.39.0 (Official Release):\n• Instant YouTube Music Engine: Sub-second audio playback powered directly by client-side residential resolution, bypassing YouTube IP blocks\n• Continuous Autoplay & Smart Suggestions: Dynamically resolves YouTube related recommendations into the queue without interruption or duplicates\n• In-Player Video Mode: Interactive pill switcher (🎵 Audio | 🎬 Video) instantly plays the authentic music video in-frame preserving playback timestamp\n• Studio DSP 8D Audio & Sound Effects: Real binaural Haas ITD delay buffer (0.63ms) + 360° circular panning, cascaded sub-bass boost (<110Hz) & treble sparkle, and warm Lo-Fi tape flutter\n• Clean Offline Downloads: Pure local file playback with zero network checks in Airplane Mode\n• Enhanced Branded Posters: Authentic YouTube high-res artwork with sleek 'CINE MUSIC • LOSSLESS' branding and ambient audio visualizer glow",
+  "is_forced": true
+}
